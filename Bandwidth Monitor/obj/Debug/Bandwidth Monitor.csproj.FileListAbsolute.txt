@@ -1,0 +1,9 @@
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\bin\Debug\Bandwidth Monitor.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth_Monitor.Form1.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth_Monitor.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.exe
+c:\users\tyler\documents\visual studio 2015\Projects\Bandwidth Monitor\Bandwidth Monitor\obj\Debug\Bandwidth Monitor.pdb
